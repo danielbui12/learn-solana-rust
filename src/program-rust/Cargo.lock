@@ -317,9 +317,9 @@ dependencies = [
 
 [[package]]
 name = "borsh"
-version = "1.0.0"
+version = "1.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4e6cb63579996213e822f6d828b0a47e1d23b1e8708f52d18a6b1af5670dd207"
+checksum = "acedd71cd81a2231f8c032b8330184e4e290374ca4e782aa95916b17e04b71b8"
 dependencies = [
  "cfg_aliases",
 ]
@@ -3033,7 +3033,7 @@ dependencies = [
 name = "solana-bpf-helloworld"
 version = "0.0.1"
 dependencies = [
- "borsh 1.0.0",
+ "borsh 1.1.0",
  "borsh-derive 0.10.3",
  "solana-program",
  "solana-program-test",
