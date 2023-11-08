@@ -244,9 +244,9 @@
   integrity sha512-Hr5Jfhc9eYOQNPYO5WLDq/n4jqijdHNlDXjuAQkkt+mWdQR+XJToOHrsD4cPaMXpn6KO7y2+wM8AZEs8VpBLVA==
 
 "@types/mz@^2.7.2":
-  version "2.7.4"
-  resolved "https://registry.yarnpkg.com/@types/mz/-/mz-2.7.4.tgz#f9d1535cb5171199b28ae6abd6ec29e856551401"
-  integrity sha512-Zs0imXxyWT20j3Z2NwKpr0IO2LmLactBblNyLua5Az4UHuqOQ02V3jPTgyKwDkuc33/ahw+C3O1PIZdrhFMuQA==
+  version "2.7.7"
+  resolved "https://registry.yarnpkg.com/@types/mz/-/mz-2.7.7.tgz#cb5fd83369b3243a25301286e529b9f195d763d1"
+  integrity sha512-cIWlsq4vFIwfsMIMTNGtL8xoXz3itY/LRiwB9cIZJYmTzHvLrFASwih50/UfOyBU+S3vA9kiDuXW7ZxMfCvXJg==
   dependencies:
     "@types/node" "*"
 
